@@ -1,7 +1,5 @@
 # 节点类，记录节点的值和子节点集合
 class Node:
-    value = 0
-    children = set()
 
     def __init__(self, value=0, children={}):
         self.value = value

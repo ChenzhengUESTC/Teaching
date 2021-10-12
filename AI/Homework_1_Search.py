@@ -9,13 +9,9 @@ class Node:
         self.name = name
         self.children = children
         self.h_value = h_value
-
-    name = ""
-    children = {}
-    father = None
-    f_value = 0
-    h_value = 0
-    g_value = 0
+        self.f_value = 0
+        self.g_value = 0
+        self.father = None
 
 
 # 构造图

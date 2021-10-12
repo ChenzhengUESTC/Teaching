@@ -9,15 +9,11 @@ class Course:
         self.time = time
         self.avaiable_assignments = set()
         for t in avaiable_teachers:
-            for d in self.avaiable_days:
+            for d in Course.avaiable_days:
                 self.avaiable_assignments.add((t, d))
+        self.assignment = None
 
-    name = ""
-    avaiable_teachers = set()
     avaiable_days = {"monday", "wednesday", "friday"}
-    time = set()
-    avaiable_assignments = set()
-    assignment = None
 
     def assign(self, assignment):
         self.assignment = assignment
@@ -39,7 +35,6 @@ courses = [course_1, course_2, course_3, course_4, course_5]
 
 # 课程安排的状态，方便进行回溯搜索
 class AssignmentState:
-    courses = set()
 
     def __init__(self, courses={}):
         self.courses = courses
