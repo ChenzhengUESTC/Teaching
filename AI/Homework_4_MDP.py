@@ -3,6 +3,13 @@ p = 0.9
 living_reward = -0.01
 gama = 0.95
 
+# grid world的大小
+grid_size = (8, 8)
+
+# 固定下出口的位置，方便与RL比较
+exit_good_position = (2, 2)
+exit_bad_position = (5, 5)
+
 
 # 每个格子的类
 class Grid:
@@ -135,14 +142,16 @@ class GridWorld:
             for j in range(0, self.size[1]):
                 grid = Grid(self, i, j)
                 self.grids.add(grid)
-        exit_good = self.grids.pop()
+        # exit_good = self.grids.pop()
+        # exit_bad = self.grids.pop()
+        # self.grids.add(exit_bad)
+        # self.grids.add(exit_good)
+        exit_good = self.find_by_position(exit_good_position[0], exit_good_position[1])
+        exit_bad = self.find_by_position(exit_bad_position[0], exit_bad_position[1])
         exit_good.is_exit = True
         exit_good.exit_reward = 10
-        exit_bad = self.grids.pop()
         exit_bad.is_exit = True
         exit_bad.exit_reward = -10
-        self.grids.add(exit_bad)
-        self.grids.add(exit_good)
 
     def find_by_position(self, x, y):
         for g in self.grids:
@@ -172,10 +181,12 @@ class GridWorld:
 grid_world = GridWorld()
 
 delta = 65535
-epsilon = 0.01
+epsilon = 0.001
 
+rounds = 0
 # 迭代，直到变化小于epsilon，则可以认为已经收敛了。
 while delta > epsilon:
+    rounds += 1
     current_total_values = grid_world.get_total_values()
     for g in grid_world.grids:
         for q in g.q_states:
@@ -184,6 +195,8 @@ while delta > epsilon:
         # 更新每个格子的效用值
         g.update_value()
     delta = abs(grid_world.get_total_values() - current_total_values)
+
+print("Convergence after " + str(rounds) + " rounds.")
 
 for g in grid_world.grids:
     # 更新每个格子的最佳行动值
