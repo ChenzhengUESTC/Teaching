@@ -1,6 +1,6 @@
 # Teaching
 
-*Prof. Chen's teaching material for Artifical Intelligence.*
+*Prof. Chen's teaching material for Object Oriented Programming.*
 
 
 - 在线直播
