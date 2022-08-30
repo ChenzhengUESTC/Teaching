@@ -1,24 +1,19 @@
 # Teaching
 
-*Prof. Chen's teaching material.*
+*Prof. Chen's teaching material for Artifical Intelligence.*
 
 
+- 在线直播
 
-- 人工智能
+每周四19:30-22:00 (GMT+08:00) 
 
-   - 第一次作业，请通过如下网址提交：http://xzc.cn/PF2n1fDfNz
-   - 第二次作业，请通过如下网址提交：http://xzc.cn/OaeO47MDmr
-   - 第三次作业，请通过如下网址提交：http://xzc.cn/znu8ZS9CFB
-   - 第四次作业，请通过如下网址提交：http://xzc.cn/w8PSyPZJ9E
-   - 第五次作业，请通过如下网址提交：http://xzc.cn/gCq65p4Qc2
-   - 实验课安排：第11-14周，周一下午5-8节，信软楼305、306房间。
-   - 实验报告请在学院实验管理系统中提交，每次实验的实验报告提交的Deadline是下周一的晚上23:59分。
-   - 期末报告，请通过如下网址提交：http://xzc.cn/FXzml8GCjC ，deadline为今年年底。
+点击链接入会：
+https://meeting.tencent.com/dm/0aGf8khWb1kb
 
-+ 面向对象程序设计
+或使用腾讯会议app入会，会议号：593-8793-5184
 
-   + 第一次作业，请通过如下网址提交：http://xzc.cn/sk0TD40KZ0
-   + 第二次作业，请通过如下网址提交：http://xzc.cn/VF1wXoBBRR
-   + 第三次作业，请通过如下网址提交：http://xzc.cn/cgChCfQ3qg
-   + 第四次作业，请通过如下网址提交：http://xzc.cn/X0ssK8xpkZ
-   + 实验课安排：第10-11周，周五晚上9-12节，信软楼400房间。
+- 在线交流
+
+QQ群号945809669
+
+密码为课程类型，请前往教务系统查看
