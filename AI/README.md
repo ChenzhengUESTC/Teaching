@@ -17,3 +17,7 @@ https://meeting.tencent.com/dm/0aGf8khWb1kb
 QQ群号945809669
 
 密码为课程类型，请前往教务系统查看
+
+- 作业
+
+第一次作业，请通过如下网址提交：http://xzc.cn/CqUA13g1kQ
