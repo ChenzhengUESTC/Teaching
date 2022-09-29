@@ -5,7 +5,7 @@
 
 - 在线直播
 
-每周四19:30-22:00 (GMT+08:00) 
+每周四10:20-11:55 (GMT+08:00) 
 
 点击链接入会：
 https://meeting.tencent.com/dm/rhIwah8lrNRw
