@@ -19,8 +19,12 @@ QQ群号945809669
 
 - 作业
 
-第一次作业，请通过如下网址提交：http://xzc.cn/CqUA13g1kQ
+人工智能第一次作业·搜索，请通过如下网址提交：http://xzc.cn/CqUA13g1kQ
 
-第二次作业，请通过如下网址提交：http://xzc.cn/dy3k17dMSS
+人工智能第二次作业·约束满足问题求解，请通过如下网址提交：http://xzc.cn/dy3k17dMSS
 
-第三次作业，请通过如下网址提交：http://xzc.cn/VdgpRsgB2P
+人工智能第三次作业·对抗搜索，请通过如下网址提交：http://xzc.cn/VdgpRsgB2P
+
+人工智能第四次作业·马尔可夫决策过程，请通过如下网址提交：http://xzc.cn/Zb5swd1FUY
+
+人工智能第五次作业·强化学习，请通过如下网址提交：http://xzc.cn/Ge8NEWwfhe
