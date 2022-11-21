@@ -28,3 +28,7 @@ QQ群号945809669
 人工智能第四次作业·马尔可夫决策过程，请通过如下网址提交：http://xzc.cn/Zb5swd1FUY
 
 人工智能第五次作业·强化学习，请通过如下网址提交：http://xzc.cn/Ge8NEWwfhe
+
+人工智能第六次作业·朴素贝叶斯，请通过如下网址提交：http://xzc.cn/OPMGOOb2rS
+
+人工智能第七次作业·感知机，请通过如下网址提交：http://xzc.cn/LNL1h18ccR
