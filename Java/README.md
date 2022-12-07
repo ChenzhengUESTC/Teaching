@@ -30,3 +30,7 @@ QQ群号945860037
 第五次作业，请通过如下网址提交：http://xzc.cn/s3cc8Y070D
 
 第六次作业，请通过如下网址提交：http://xzc.cn/wz4y3YbKRD
+
+第七次作业，请通过如下网址提交：http://xzc.cn/BC7UgGeLu7
+
+第八次作业，请通过如下网址提交：http://xzc.cn/nGu9h9qkbK
