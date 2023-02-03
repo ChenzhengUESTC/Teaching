@@ -32,3 +32,5 @@ QQ群号945809669
 人工智能第六次作业·朴素贝叶斯，请通过如下网址提交：http://xzc.cn/OPMGOOb2rS
 
 人工智能第七次作业·感知机，请通过如下网址提交：http://xzc.cn/LNL1h18ccR
+
+人工智能期末报告，请通过如下网址提交：http://xzc.cn/chcN6GYcgs
